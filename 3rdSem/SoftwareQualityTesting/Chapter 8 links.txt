@@ -1,0 +1,25 @@
+Jmeter Introduction and Components description:
+https://www.guru99.com/jmeter-tutorials.html
+Jmeter Installation and setup pre-requisites:
+https://www.guru99.com/guide-to-install-jmeter.html
+
+Jmeter threadgroup, samplers, listeners and configurations
+https://www.guru99.com/jmeter-element-reference.html
+
+Jmeter pre-processor and post-processor usage
+https://www.guru99.com/processor-in-jmeter.html
+
+Jmeter Basic Blog for beginners
+https://docs.google.com/document/d/1YvFotD4UtnBmie6wcFjLry6hwtwzb4BZ/edit
+
+Note: Please Refer to all the materials provided sequentially to learn the basics we did in the last class.
+
+Practice URL for load testing : https://petstore.swagger.io/
+
+https://www.guru99.com/jmeter-tutorials.html
+
+https://petstore.swagger.io/
+
+https://www.guru99.com/jmeter-element-reference.html
+https://www.guru99.com/jmeter-element-reference.html
+https://www.guru99.com/processor-in-jmeter.html

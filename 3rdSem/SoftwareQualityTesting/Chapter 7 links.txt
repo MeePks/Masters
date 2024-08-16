@@ -1,0 +1,8 @@
+Practice URL: https://petstore.swagger.io/#/
+Final Automation Blog: https://blog.ekbana.com/api-testing-with-postman-series-part-3-fe66c6b34588
+Official Postman Documentation: https://learning.postman.com/docs/getting-started/introduction/
+
+https://blog.ekbana.com/api-testing-with-postman-series-part-2-7d83eb54c162
+
+https://learning.postman.com/docs/introduction/overview/?authuser=0
+https://blog.ekbana.com/api-testing-with-postman-series-part-1-737f23cb1de0
